@@ -1,5 +1,5 @@
 ## Nicholas du Preez
-I am a director at [CM Solutions Metallurgical Consultancy and Laboratories](https://cm-solutions.co.za/). We are a South African-based company which provides assistance to the metallurgical industry. We offer metallurgical test work (with in-house analysis) and provide consulting services ranging from desktop, concept and pre-feasibility studies to onsite process optimisation. 
+I am a director at [CM Solutions Metallurgical Consultancy and Laboratories](https://cm-solutions.co.za/). We are a South African-based company which provides assistance to the metallurgical industry. We offer metallurgical test work (with in-house analysis) and consulting services ranging from desktop, concept and pre-feasibility studies to process modelling to onsite process optimisation. 
 
 I also assist in the development and maintenance of [Cycad Process](https://cycadprocess.com/), a flowsheeting and simulation package developed for metallurgical engineers.
 
